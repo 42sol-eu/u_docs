@@ -1,0 +1,6 @@
+[submodule "_modules/1_mdpre"]
+	path = _modules/1_mdpre
+	url = https://github.com/MartinPacker/mdpre.git
+[submodule "_modules/1_md2pptx"]
+	path = _modules/1_md2pptx
+	url = https://github.com/MartinPacker/md2pptx.git
