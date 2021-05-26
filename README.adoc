@@ -1,0 +1,15 @@
+= README: u_docs
+
+This is a collection of projects (included as git submodules) and resources around them to use and understand them better.
+
+== Tools
+
+. mdpre (Preprocessor for markdown, if you know C or C++ you know what to expect)
+. md2pptx (Convert markdown into a great PPTX presentation)
+
+== Goals 
+
+. Improve my knowledge of those tools
+. Maybe add some features and documents to the used tools (at least a german user manual is in easy reach)
+. Find out where to go next 
+. Create a MD/ADOC comparison chart ...
